@@ -18,8 +18,7 @@ while True:
         Datos_Jose()
     elif op == "3":
         pass # Aquí se llamará a la función del integrante 3
-    else:
-        elif op == "4":
+    elif op == "4":
         pass # Aquí se llamará a la función del integrante 3
     else:
         print(" Opción inválida.")  
