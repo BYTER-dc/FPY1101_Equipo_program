@@ -1,6 +1,3 @@
-def datos_Etániel():
-    print("Mi nombre es Etániel Rapu y tengo 19 años")
-
 # Menú base del programa
 while True:
     print("\n--- MENÚ PRINCIPAL ---")
@@ -18,7 +15,5 @@ while True:
         pass # Aquí se llamará a la función del integrante 2
     elif op == "3":
         pass # Aquí se llamará a la función del integrante 3
-    elif op == "4":
-        datos_Etániel()
     else:
         print(" Opción inválida.")  
