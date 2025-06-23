@@ -6,6 +6,7 @@ while True:
     print("1. Función de integrante 1")
     print("2. Función de integrante 2")
     print("3. Función de integrante 3")
+    print("3. Función de integrante 4")
     print("0. Salir")
     op = input("Seleccione opción: ")
     if op == "0":
@@ -14,8 +15,11 @@ while True:
     elif op == "1":
         pass # Aquí se llamará a la función del integrante 1
     elif op == "2":
-        Datos_Jose():
+        Datos_Jose()
     elif op == "3":
+        pass # Aquí se llamará a la función del integrante 3
+    else:
+        elif op == "4":
         pass # Aquí se llamará a la función del integrante 3
     else:
         print(" Opción inválida.")  
