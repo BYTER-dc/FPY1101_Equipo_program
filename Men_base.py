@@ -1,5 +1,11 @@
+
+
 def Datos_Jose():
     print("Mi nombre es Jose Tomas y tengo 19 años")
+
+
+
+
 # Menú base del programa
 while True:
     print("\n--- MENÚ PRINCIPAL ---")
