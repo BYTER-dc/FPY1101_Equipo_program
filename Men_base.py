@@ -2,6 +2,9 @@
 
 def Datos_Jose():
     print("Mi nombre es Jose Tomas y tengo 19 años")
+def datos_constanza():
+    print("mi nombre es constanza y tengo 19 años")
+
 
 
 
@@ -19,7 +22,7 @@ while True:
         print("Programa finalizado.")
         break
     elif op == "1":
-        pass # Aquí se llamará a la función del integrante 1
+        datos_constanza()
     elif op == "2":
         Datos_Jose()
     elif op == "3":
