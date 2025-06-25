@@ -1,5 +1,11 @@
 def datos_constanza():
     print("mi nombre es constanza y tengo 19 años")
+
+
+
+
+
+
 # Menú base del programa
 while True:
     print("\n--- MENÚ PRINCIPAL ---")
