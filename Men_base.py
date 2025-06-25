@@ -12,7 +12,7 @@ while True:
     print("1. Función de integrante 1")
     print("2. Función de integrante 2")
     print("3. Función de integrante 3")
-    print("3. Función de integrante 4")
+    print("4. Función de integrante 4")
     print("0. Salir")
     op = input("Seleccione opción: ")
     if op == "0":
