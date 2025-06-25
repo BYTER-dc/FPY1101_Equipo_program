@@ -1,10 +1,8 @@
+def datos_constanza():
+    print("mi nombre es constanza y tengo 19 años")
 
 
 
-
-
-def datos_valentina():
-    print("mi nombre es valentina y tegno 19 años ")
 
 
 
@@ -21,12 +19,12 @@ while True:
         print("Programa finalizado.")
         break
     elif op == "1":
-        pass # Aquí se llamará a la función del integrante 1
+        datos_constanza()
     elif op == "2":
         pass # Aquí se llamará a la función del integrante 2
     elif op == "3":
-        datos_valentina()
-    elif op == "4":
-        pass # Aquí se llamará a la función del integrante 4
+        pass # Aquí se llamará a la función del integrante 3
+    elif op == "4": 
+        pass
     else:
         print(" Opción inválida.")  
