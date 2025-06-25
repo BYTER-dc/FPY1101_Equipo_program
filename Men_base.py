@@ -1,6 +1,11 @@
+
+
+
+
+
+
 def datos_Etániel():
     print("Mi nombre es Etániel Rapu y tengo 19 años")
-
 # Menú base del programa
 while True:
     print("\n--- MENÚ PRINCIPAL ---")
