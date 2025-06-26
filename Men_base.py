@@ -6,7 +6,6 @@ def datos_valentina():
     print("mi nombre es valentina y tegno 19 años ")
 
 
-
 # Menú base del programa
 while True:
     print("\n--- MENÚ PRINCIPAL ---")
@@ -28,4 +27,4 @@ while True:
     elif op == "4":
         pass # Aquí se llamará a la función del integrante 4
     else:
-        print(" Opción inválida.")  
+        print(" Opción inválida.")
