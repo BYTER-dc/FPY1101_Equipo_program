@@ -3,7 +3,7 @@
 
 
 def tomas():
-    print("Mi nombre es tomas tengo 19 años")
+    print("Mi nombre es tomas hernandez tengo 19 años")
 
 
 # Menú base del programa
