@@ -1,9 +1,9 @@
 
 
-
-
 def tomas():
     print("Mi nombre es tomas hernandez tengo 19 años")
+
+
 
 
 # Menú base del programa
@@ -21,9 +21,9 @@ while True:
     elif op == "1":
         pass # Aquí se llamará a la función del integrante 1
     elif op == "2":
-        pass # Aquí se llamará a la función del integrante 2
-    elif op == "3":
         tomas()
+    elif op == "3":
+        pass # Aquí se llamará a la función del integrante 3
     elif op == "4": 
         pass # Aquí se llamará a la función del integrante 4
     else:
