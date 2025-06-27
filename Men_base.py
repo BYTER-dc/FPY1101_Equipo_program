@@ -2,8 +2,8 @@
 
 
 
-
-
+def vale():
+    print("Mi nombre es valentina lobos y tengo 19 años")
 
 
 # Menú base del programa
@@ -23,7 +23,7 @@ while True:
     elif op == "2":
         pass # Aquí se llamará a la función del integrante 2
     elif op == "3":
-        pass # Aquí se llamará a la función del integrante 3
+        vale()
     elif op == "4": 
         pass # Aquí se llamará a la función del integrante 4
     else:
