@@ -1,9 +1,9 @@
 
 
+
+
 def vale():
     print("Mi nombre es valentina lobos y tengo 19 años")
-
-
 
 
 # Menú base del programa
