@@ -1,11 +1,11 @@
-
-
-
-
-
-
-
-
+def constanza():
+    print("Mi nombre es Constanza barra y tengo 19 años")
+def jose():
+    print("Mi nombre es Jose hernandez y tengo 19 años")
+def valentina():
+    print("Mi nombre es Valentina lobos y tengo 19 años")
+def etaniel():
+    print("Mi nombre es Etániel rapu y tengo 19 años")
 # Menú base del programa
 while True:
     print("\n--- MENÚ PRINCIPAL ---")
@@ -19,12 +19,12 @@ while True:
         print("Programa finalizado.")
         break
     elif op == "1":
-        pass # Aquí se llamará a la función del integrante 1
+        constanza()
     elif op == "2":
-        pass # Aquí se llamará a la función del integrante 2
+        jose()
     elif op == "3":
-        pass # Aquí se llamará a la función del integrante 3
+        valentina()
     elif op == "4": 
-        pass # Aquí se llamará a la función del integrante 4
+        etaniel()
     else:
         print(" Opción inválida.")  
