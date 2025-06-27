@@ -4,7 +4,7 @@
 
 
 
-def etaneil():
+def etaniel():
     print("Mi nombre es Etániel rapu y tengo 19 años")
 # Menú base del programa
 while True:
