@@ -1,9 +1,9 @@
-def constanza():
-    print("Mi nombre es constanza barra y tengo 19 años")
 
 
-def tomas():
-    print("Mi nombre es tomas tengo 19 años")
+
+
+
+
 
 
 # Menú base del programa
@@ -19,11 +19,11 @@ while True:
         print("Programa finalizado.")
         break
     elif op == "1":
-        constanza()
+        pass # Aquí se llamará a la función del integrante 1
     elif op == "2":
         pass # Aquí se llamará a la función del integrante 2
     elif op == "3":
-        tomas()
+        pass # Aquí se llamará a la función del integrante 3
     elif op == "4": 
         pass # Aquí se llamará a la función del integrante 4
     else:
